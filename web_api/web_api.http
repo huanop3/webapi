@@ -1,4 +1,4 @@
-@web_api_HostAddress = http://localhost:5106
+@web_api_HostAddress = http://localhost:5106/swagger/index.html
 
 GET {{web_api_HostAddress}}/weatherforecast/
 Accept: application/json
